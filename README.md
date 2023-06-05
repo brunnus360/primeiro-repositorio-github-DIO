@@ -1,2 +1,6 @@
-# primeiro repositório github DIO
- primeiro repositório criado para o desafio de projeto do curso DataBase Experience da Plataforma DIO
+# Primeiro repositório de Github DIO
+ Este é o primeiro repositório criado para o desafio de projeto para colocar em 
+ 
+ prática os conteúdos sobre Git e GitHub aprendidos no BootCamp DataBase Experience 
+ 
+ oferecido pela Plataforma DIO.
